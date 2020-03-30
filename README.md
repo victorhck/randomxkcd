@@ -10,17 +10,17 @@ Script de Bash para descargar un comic aleatorio de [xkcd](https://xkcd.com/) y 
 * feh
 
 Descarga el archivo 
-
- wget https://raw.githubusercontent.com/victorhck/randomxkcd/master/randomxkcd
-
+```
+wget https://raw.githubusercontent.com/victorhck/randomxkcd/master/randomxkcd
+```
 Dale permisos de ejecución 
-
- chmod +x randomxkcd
-
+```
+chmod +x randomxkcd
+```
 Ejecúta... 
-
- ./randomxkcd
-
+```
+./randomxkcd
+```
 et voila!
 
 ¡Descarga, prueba, disfruta, fork y mejora!
