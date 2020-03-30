@@ -1,5 +1,7 @@
 # randomxkcd
 
+![xkcd_logo](xkcd.png)
+
 Script de Bash para descargar un comic aleatorio de [xkcd](https://xkcd.com/) y mostrarlo en tu terminal, junto con el texto _alt_ que acompaña la imagen.
 
 ## Dependencias
