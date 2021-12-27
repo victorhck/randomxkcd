@@ -17,7 +17,7 @@ Dale permisos de ejecución
 ```
 chmod +x randomxkcd
 ```
-Ejecúta... 
+Ejecuta... 
 ```
 ./randomxkcd
 ```
