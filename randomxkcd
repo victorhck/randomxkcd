@@ -26,3 +26,5 @@ feh -xFd /tmp/$nombre --draw-tinted --info "cat /tmp/xkcd.txt"
 
 # Borramos el archivo con la tira
 rm /tmp/$nombre
+rm /tmp/xkcd.txt
+rm /tmp/xkcd
