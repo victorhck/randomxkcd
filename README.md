@@ -4,29 +4,8 @@
 
 Script de Bash para descargar un comic aleatorio de [xkcd](https://xkcd.com/) y mostrarlo en tu terminal, junto con el texto _alt_ que acompaña la imagen.
 
-### Dependencias
-* curl
-* wget
-* feh
 
-Descarga el archivo 
-```
-wget https://raw.githubusercontent.com/victorhck/randomxkcd/master/randomxkcd
-```
-Dale permisos de ejecución 
-```
-chmod +x randomxkcd
-```
-Ejecuta... 
-```
-./randomxkcd
-```
-et voila!
+## Atención
+Este script lo he migrado de GitHub a Codeberg, un sitio para gestión de repositorios git comunitario y que opera con software libre. Una opción respetuosa con la privacidad de los usuarios. Puedes encontrar el repositorio en este enlace:
 
-¡Descarga, prueba, disfruta, fork y mejora!
-
----
-
-Bash script to download a random [xkcd](https://xkcd.com/) comic and show in your terminal also showing the _alt_ text
-
-Download, test, enjoy, fork and improve!
+* https://codeberg.org/victorhck/randomxkcd
